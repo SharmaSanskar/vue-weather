@@ -1,24 +1,3 @@
-# vue-weather
+# Weather App
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### _Vue.js_ project using [openweathermap api](https://openweathermap.org/) to display the weather of given location.
